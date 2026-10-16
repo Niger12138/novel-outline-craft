@@ -194,3 +194,7 @@ novel-outline-craft/
 ## License
 
 [MIT](LICENSE) © 2026 普通青年
+
+---
+
+版本变更记录见 [CHANGELOG.md](CHANGELOG.md)。
