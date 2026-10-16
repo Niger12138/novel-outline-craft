@@ -1,4 +1,4 @@
-# 小说大纲与细纲工坊 · Novel Outline Craft
+# 小说大纲与细纲工坊skills · Novel Outline Craft
 
 > 把「一个点子」变成「可以直接开写、且不会写飞」的结构。
 
